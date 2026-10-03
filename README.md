@@ -19,7 +19,6 @@ https://techorahc.netlify.app/
 
 - Next.js
 - Sanity CMS
-- JavaScript
 - Tailwind CSS
 
 ## Content Management
